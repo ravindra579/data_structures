@@ -1,0 +1,2 @@
+# data_structures
+header1.h is a header file with that we can sort and search an array sorting includes selection_sort,insertion_sort,bubble_sort,counting_sort,radix_sort,shell_sort,merge_sort and searching algorithms contain binary_serch,linear_search from "from_header_files.cpp" we can understood how to use header1.h and remaining other .cpp files are a part of header1.cpp or basic concepts of datastructures and algorithms
